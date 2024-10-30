@@ -52,6 +52,10 @@ pip install -r requirements.txt
 
 Para utilizar la API, consulta la lógica implementada en la carpeta `api`. Asegúrate de seguir la estructura y las rutas definidas en el código para acceder a las funcionalidades.
 
+## Pasos Anteriores
+
+- [GitHub Original](https://github.com/mariaelisaaraya/M1000IA) en este Repositorio vas a poder encontrar varios modelos, apis, interfaces diferentes y caminos que fuimos tomando hasta llegar a este Repositorio.
+
 ## Credits
 
 - [Elisa Araya](https://www.linkedin.com/in/arayamariaelisa/)
