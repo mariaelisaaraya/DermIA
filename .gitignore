@@ -1,0 +1,4 @@
+env
+.vscode
+metadatos_actualizados_sin_nv_reducidos.csv
+modelo_entrenadomok.pth
