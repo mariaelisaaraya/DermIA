@@ -1,6 +1,6 @@
-# 🚀 DermAI
+# 🚀 DermIA
 
-Te damos la bienvenida a **DermAi**. Esta API se integra con una interfaz HTML final y permite acceder a sus funcionalidades de manera sencilla. A continuación, se presentan las instrucciones para ejecutar la API de forma rápida.
+Te damos la bienvenida a **DermIA**. Esta API se integra con una interfaz HTML final y permite acceder a sus funcionalidades de manera sencilla. A continuación, se presentan las instrucciones para ejecutar la API de forma rápida.
 
 ![DermaIA](https://i.imgur.com/JB317dD.png)
 
